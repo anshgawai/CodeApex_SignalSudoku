@@ -1,1 +1,0 @@
-# Signal Sudoku Core Package
